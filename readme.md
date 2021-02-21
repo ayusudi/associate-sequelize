@@ -111,4 +111,7 @@ Pokemon.findByPk(2)
 })
 ```
 
+<img src="./assets/all.png"  width="600px" style="margin:5px; display:block">
+
+
 
