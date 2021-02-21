@@ -1,0 +1,30 @@
+[
+  {
+    "PokemonId": 1,
+    "hp": 50,
+    "attack": 55,
+    "defense": 70,
+    "speed": 50
+  },
+  {
+    "PokemonId": 2,
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "speed": 45
+  },
+  {
+    "PokemonId": 3,
+    "hp": 44,
+    "attack": 48,
+    "defense": 65,
+    "speed": 43
+  },
+  {
+    "PokemonId": 4,
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "speed": 65
+  }
+]

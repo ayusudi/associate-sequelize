@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Pikachu",
+    "height": 45.5,
+    "weight": 6,
+    "description": "Pikachu is a yellow mouse Pokémon, the mascot of Pokémon and has become an icon of Japanese culture in recent years."
+  },
+  {
+    "name": "Bulbasaur",
+    "height": 71.8,
+    "weight": 7.5,
+    "description": "Bulbasaur is a small, quadrupedal Pokémon that has blue-green skin with darker patches."
+  },
+  {
+    "name": "Squirtle",
+    "height": 50.8,
+    "weight": 9.25,
+    "description": "Squirtle is a small Pokémon that resembles a light-blue turtle."
+  },
+  {
+    "name": "Charmander",
+    "height": 60.2,
+    "weight": 8.5,
+    "description": "Charmander is a bipedal, reptilian Pokémon with a primarily orange body and blue eyes."
+  },
+  {
+    "name": "Charizard",
+    "height": 170,
+    "weight": 90.5,
+    "description": "Pokemon \"Charizard\" have height 170 cm & Weight 90.5 kg with type Fire and Flying."
+  },
+  {
+    "name": "Caterpie",
+    "height": 30,
+    "weight": 2.9,
+    "description": "Pokemon \"Caterpie\" have height 30 cm & Weight 2.9 kg with type Bug."
+  },
+  {
+    "name": "Butterfree",
+    "height": 109,
+    "weight": 3.2,
+    "description": "Pokemon \"Butterfree\" have height 109 cm & Weight 3.2 kg with type Bug and Flying."
+  },
+  {
+    "name": "Beedrill",
+    "height": 99,
+    "weight": 2.95,
+    "description": "Pokemon \"Beedrill\" have height 99 cm & Weight 2.95 kg with type Bug and Poison."
+  },
+  {
+    "name": "Pidgeot",
+    "height": 150,
+    "weight": 3.95,
+    "description": "Pokemon \"Pidgeot\" have height 150 cm & Weight 3.95 kg with type Normal and Flying."
+  }
+]

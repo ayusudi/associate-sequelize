@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Grass",
+    "description": "Pokemon Grass is one of the three basic elemental types along with Fire and Water, which constitute the three starter Pokémon.",
+    "color": "green",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pok%C3%A9mon_Grass_Type_Icon.svg/1024px-Pok%C3%A9mon_Grass_Type_Icon.svg.png"
+  },
+  {
+    "name": "Fire",
+    "description": "Pokemon Fire is one of the eighteen Pokémon Types. It is notable for being one of the three Starter types, forming a perfectly triangular relationship with Grass and Water.",
+    "color": "maroon",
+    "symbol": "https://dubai-first-aid.com/wp-content/uploads/2019/10/fire_283601.png"
+  },
+  {
+    "name": "Water",
+    "description": "Pokemon Water is one of the three basic elemental types along with Fire and Gtass, which constitute the three starter Pokémon.",
+    "color": "blue",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pok%C3%A9mon_Water_Type_Icon.svg/1024px-Pok%C3%A9mon_Water_Type_Icon.svg.png"
+  },
+  {
+    "name": "Electric",
+    "description": "The Electric type is a type of Pokémon that have electricity-oriented powers.",
+    "color": "darkgoldenrod",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pok%C3%A9mon_Electric_Type_Icon.svg/1024px-Pok%C3%A9mon_Electric_Type_Icon.svg.png"
+  },
+  {
+    "name": "Poison",
+    "description": "Pokemon Poison  are immune to being poisoned (except by a Pokémon with Corrosion), and a grounded Poison-type Pokémon automatically removes Toxic Spikes on its side when it switches in.",
+    "color": "purple",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pok%C3%A9mon_Poison_Type_Icon.svg/480px-Pok%C3%A9mon_Poison_Type_Icon.svg.png"
+  },
+  {
+    "name": "Normal",
+    "description": "Pokemon Normal  is one of the eighteen Pokémon elemental types. More moves are Normal than any other type; however, many of these moves are status moves that dont inflict any damage.",
+    "color": "dimgray",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pok%C3%A9mon_Normal_Type_Icon.svg/1024px-Pok%C3%A9mon_Normal_Type_Icon.svg.png"
+  },
+  {
+    "name": "Flying",
+    "description": "Flying Type is one of the eighteen types. Prior to changes in Generation IV, all damaging Flying-type moves were physical, but they may now also be special depending on the attack.",
+    "color": "teal",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pok%C3%A9mon_Flying_Type_Icon.svg/1024px-Pok%C3%A9mon_Flying_Type_Icon.svg.png"
+  },
+  {
+    "name": "Bug",
+    "description": "Bug moves are super-effective against: Grass Psychic Dark.",
+    "color": "darkgreen",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pok%C3%A9mon_Bug_Type_Icon.svg/240px-Pok%C3%A9mon_Bug_Type_Icon.svg.png"
+  }
+]
